@@ -1,0 +1,34 @@
+
+
+
+#first{
+    background-color: rgb(136, 26, 26);
+    color: aqua;
+}
+h1{
+color: blue;
+
+}
+.red{
+background-color: aqua;
+color: brown;
+}
+.blue{
+    background: rgb(63, 13, 13);
+    color: rgb(228, 29, 29);
+    border: 2px solid yellow;
+}
+.aqua{
+    background: red;
+    color: aliceblue;
+    border: 2px solid purple;
+}
+.black{
+    background: purple;
+    color: white;
+
+}
+*{
+margin=8;
+padding=8;
+}
